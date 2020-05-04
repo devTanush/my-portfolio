@@ -108,13 +108,13 @@ ul {
 }
 
 /*Newsletter*/
-#tools {
+#skillset {
     padding: 15px;
     color: #ffffff;
     background: #35424a;
 }
 
-#tools h1 {
+#skillset h1 {
     text-align: center;
 }
  /*Skills*/
@@ -141,7 +141,7 @@ ul {
     margin-top: 10px;
 }
 
-.sidebar .quote input, .sidebar .quote textarea {
+.sidebar .contact input, .sidebar .contact textarea {
     width: 90%;
     padding: 5px;
 }
