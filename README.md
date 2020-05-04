@@ -9,6 +9,6 @@ Link to the site can be found [here.](https://devtanush.github.io/my-portfolio/)
 ## Known Bugs
 There are no known bugs currently. In case you find one, please let me know and will be happy to resolve :-)
 ## Support and contact details
-You can reach me in case of support on twitter via @nicholastanui or [here.](https://devtanush.github.io/my-portfolio/)
+You can reach me in case of support on twitter via @nicholastanui or [here.](https://devtanush.github.io/my-portfolio/projects.html)
 ### License
 MIT Copyright (c) 2020 **Nicholas Tanui**
